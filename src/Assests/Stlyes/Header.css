@@ -1,0 +1,20 @@
+.header{
+  background: linear-gradient(180deg, #B12228 0%, #7A1519 100%);
+
+}
+.header-banner{
+  background-image: url("../images/banner.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.header-red-bg{
+  background: linear-gradient(180deg, #FF0000 0%, #720505 100%);
+}
+.container-width{
+  max-width: 1500px;
+  min-width: 1400px;
+}
+
+.divide{
+  color: #d3d3dc80;
+}
